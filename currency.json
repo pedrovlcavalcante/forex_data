@@ -1,0 +1,58 @@
+[
+    {
+        "symbol": "USDBRL",
+        "name": "USD/BRL",
+        "currency": "BRL",
+        "stockExchange": "CCY",
+        "exchangeShortName": "FOREX"
+    },
+    {
+        "symbol": "EURUSD",
+        "name": "EUR/USD",
+        "currency": "USD",
+        "stockExchange": "CCY",
+        "exchangeShortName": "FOREX"
+    },
+    {
+        "symbol": "USDJPY",
+        "name": "USD/JPY",
+        "currency": "JPY",
+        "stockExchange": "CCY",
+        "exchangeShortName": "FOREX"
+    },
+    {
+        "symbol": "GBPUSD",
+        "name": "GBP/USD",
+        "currency": "USD",
+        "stockExchange": "CCY",
+        "exchangeShortName": "FOREX"
+    },
+    {
+        "symbol": "USDCHF",
+        "name": "USD/CHF",
+        "currency": "CHF",
+        "stockExchange": "CCY",
+        "exchangeShortName": "FOREX"
+    },
+    {
+        "symbol": "AUDUSD",
+        "name": "AUD/USD",
+        "currency": "USD",
+        "stockExchange": "CCY",
+        "exchangeShortName": "FOREX"
+    },
+    {
+        "symbol": "USDCAD",
+        "name": "USD/CAD",
+        "currency": "CAD",
+        "stockExchange": "CCY",
+        "exchangeShortName": "FOREX"
+    },
+    {
+        "symbol": "NZDUSD",
+        "name": "NZD/USD",
+        "currency": "USD",
+        "stockExchange": "CCY",
+        "exchangeShortName": "FOREX"
+    }
+]
